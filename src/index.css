@@ -1,0 +1,20 @@
+
+.navbar-marron {
+    background-color: #794D2C !important; 
+    border-bottom: 3px solid #FFD700; 
+}
+
+.navbar-marron .navbar-brand,
+.navbar-marron .nav-link {
+    color: #FFFFFF !important; 
+}
+
+.navbar-marron .nav-link:hover {
+    color: #FFD700 !important;
+}
+
+
+h1, h2, h3 {
+    color: #5D3E24; 
+    font-family: 'Pacifico', cursive; 
+}
